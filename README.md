@@ -3,6 +3,10 @@
 Calculations of some amino acids properties (including Mw, bond energy, etc.)
 
 Function so far:
-- Insert the element to be marked with isotope, return the amino acids' Mw (for now only avail for Alanine)
+- Insert the element to be marked with isotope, return the amino acids' Mw
 
-> Made for my GF
+TODO:
+- Add functions of long peptide chain mw calculations
+- Add functions of bond breakage energy and fragment weight calculations
+
+> Made with my GF
