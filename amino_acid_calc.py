@@ -10,7 +10,7 @@ class elem:
     def check_marked(self):
         # for name,value in vars(self).items():
         # for self.enum in range (0, 5):
-        if Elem_marked == self.abbr or self.name:
+        if Elem_marked == self.abbr:
             self.mw_use = self.isos
 
 C = elem(1, "Carbon", "C", 12.011, 14.0032, 12.011)
